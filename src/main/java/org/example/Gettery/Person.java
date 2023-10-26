@@ -1,0 +1,29 @@
+package org.example.Gettery;
+
+
+public class Person {
+    private String firstName;
+    private String lastName;
+    private int age;
+
+    public Person(String firstName, String lastName, int age) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+    }
+
+    // Gettery dla pól firstName, lastName i age
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    // Inne metody klasy
+}

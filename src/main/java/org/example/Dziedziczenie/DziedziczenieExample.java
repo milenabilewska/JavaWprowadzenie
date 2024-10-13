@@ -9,11 +9,6 @@ public class DziedziczenieExample {
         pies.dajGlos();
         pies.aportuj();
 
-
-        //mmmmm
-
-        //kkkk
-
         kot.jedz();
         kot.dajGlos();
         kot.polujNaMyszy();

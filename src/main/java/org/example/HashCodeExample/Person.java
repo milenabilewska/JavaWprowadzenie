@@ -26,7 +26,5 @@ class Person {
 
         return firstName.equals(otherPerson.firstName) && lastName.equals(otherPerson.lastName);
 
-
-        //khbkhbkb
     }
 }

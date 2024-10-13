@@ -12,6 +12,8 @@ public class DziedziczenieExample {
 
         //mmmmm
 
+        //kkkk
+
         kot.jedz();
         kot.dajGlos();
         kot.polujNaMyszy();

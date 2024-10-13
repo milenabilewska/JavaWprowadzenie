@@ -9,5 +9,7 @@ public class Main {
         String lastName = person.getLastName();
         int age = person.getAge();
         System.out.println(age);
+
+        //m,mmm.lkn
     }
 }

@@ -12,5 +12,9 @@ public class EqualsExample {
 
         System.out.println("Czy person1 jest równy person2? " + areEqual1And2);
         System.out.println("Czy person1 jest równy person3? " + areEqual1And3);
+
+
+
+        //mmmm
     }
 }
